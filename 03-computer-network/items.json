@@ -1,5 +1,13 @@
 [
     {
+        "page":  1,
+        "cid":  41166307587,
+        "part":  "27考研408学习交流群",
+        "chapter":  "27",
+        "duration_s":  19,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=1"
+    },
+    {
         "page":  2,
         "cid":  39151077741,
         "part":  "1.1.1 电路交换报文交换分组交换",
@@ -174,13 +182,5 @@
         "chapter":  "6",
         "duration_s":  2696,
         "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=23"
-    },
-    {
-        "page":  1,
-        "cid":  41166307587,
-        "part":  "27考研408学习交流群",
-        "chapter":  "27",
-        "duration_s":  19,
-        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=1"
     }
 ]
