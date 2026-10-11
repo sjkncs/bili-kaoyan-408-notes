@@ -1,5 +1,13 @@
 [
     {
+        "page":  1,
+        "cid":  41166308867,
+        "part":  "27考研408学习交流群",
+        "chapter":  "27",
+        "duration_s":  20,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=1"
+    },
+    {
         "page":  2,
         "cid":  37741725871,
         "part":  "0.0.0 课程文档说明",
@@ -454,13 +462,5 @@
         "chapter":  "7",
         "duration_s":  3813,
         "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=58"
-    },
-    {
-        "page":  1,
-        "cid":  41166308867,
-        "part":  "27考研408学习交流群",
-        "chapter":  "27",
-        "duration_s":  20,
-        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=1"
     }
 ]
