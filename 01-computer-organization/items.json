@@ -1,0 +1,466 @@
+[
+    {
+        "page":  2,
+        "cid":  37741725871,
+        "part":  "0.0.0 课程文档说明",
+        "chapter":  "0",
+        "duration_s":  322,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=2"
+    },
+    {
+        "page":  3,
+        "cid":  37741726763,
+        "part":  "1.2.1 计算机系统层次结构",
+        "chapter":  "1",
+        "duration_s":  2789,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=3"
+    },
+    {
+        "page":  4,
+        "cid":  37741791552,
+        "part":  "1.3.1 计算机的性能指标",
+        "chapter":  "1",
+        "duration_s":  2607,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=4"
+    },
+    {
+        "page":  5,
+        "cid":  37741855591,
+        "part":  "2.1.1 进制转换",
+        "chapter":  "2",
+        "duration_s":  2070,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=5"
+    },
+    {
+        "page":  6,
+        "cid":  37741856843,
+        "part":  "2.1.2 定点数的编码表示",
+        "chapter":  "2",
+        "duration_s":  423,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=6"
+    },
+    {
+        "page":  7,
+        "cid":  37741857104,
+        "part":  "2.1.3 原码，补码和反码",
+        "chapter":  "2",
+        "duration_s":  1076,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=7"
+    },
+    {
+        "page":  8,
+        "cid":  37741857560,
+        "part":  "2.1.4 补码和真值转换的一种快速求法",
+        "chapter":  "2",
+        "duration_s":  1135,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=8"
+    },
+    {
+        "page":  9,
+        "cid":  37741858031,
+        "part":  "2.1.5 补码求真值多种方法汇总",
+        "chapter":  "2",
+        "duration_s":  559,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=9"
+    },
+    {
+        "page":  10,
+        "cid":  37741858130,
+        "part":  "2.1.6 移码",
+        "chapter":  "2",
+        "duration_s":  490,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=10"
+    },
+    {
+        "page":  11,
+        "cid":  37741858766,
+        "part":  "2.1.7补码的数轴表示以及特点",
+        "chapter":  "2",
+        "duration_s":  1431,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=11"
+    },
+    {
+        "page":  12,
+        "cid":  37741921782,
+        "part":  "2.1.8 机器数和真值题目练习",
+        "chapter":  "2",
+        "duration_s":  455,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=12"
+    },
+    {
+        "page":  13,
+        "cid":  37741921958,
+        "part":  "2.1.9 无符号数和有符号数",
+        "chapter":  "2",
+        "duration_s":  216,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=13"
+    },
+    {
+        "page":  14,
+        "cid":  37741922140,
+        "part":  "2.1.10 类型转换",
+        "chapter":  "2",
+        "duration_s":  2023,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=14"
+    },
+    {
+        "page":  15,
+        "cid":  37741986091,
+        "part":  "2.2.1 基本运算部件",
+        "chapter":  "2",
+        "duration_s":  345,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=15"
+    },
+    {
+        "page":  16,
+        "cid":  37741986491,
+        "part":  "2.2.2 定点数的移位运算",
+        "chapter":  "2",
+        "duration_s":  2263,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=16"
+    },
+    {
+        "page":  17,
+        "cid":  37741987510,
+        "part":  "2.2.3 补码的加减运算以及判断溢出",
+        "chapter":  "2",
+        "duration_s":  2094,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=17"
+    },
+    {
+        "page":  18,
+        "cid":  37741988867,
+        "part":  "2.2.4 补码加减和判断溢出题目",
+        "chapter":  "2",
+        "duration_s":  1984,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=18"
+    },
+    {
+        "page":  19,
+        "cid":  37742051364,
+        "part":  "2.2.5 标志位（直播课剪辑）",
+        "chapter":  "2",
+        "duration_s":  2070,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=19"
+    },
+    {
+        "page":  20,
+        "cid":  37742051740,
+        "part":  "2.2.6 加减运算电路（直播课剪辑）",
+        "chapter":  "2",
+        "duration_s":  1639,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=20"
+    },
+    {
+        "page":  21,
+        "cid":  37742052412,
+        "part":  "2.3.1 IEEE754浮点数的表示",
+        "chapter":  "2",
+        "duration_s":  2156,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=21"
+    },
+    {
+        "page":  22,
+        "cid":  37742117201,
+        "part":  "2.3.2 浮点数的表示范围",
+        "chapter":  "2",
+        "duration_s":  793,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=22"
+    },
+    {
+        "page":  23,
+        "cid":  37742118004,
+        "part":  "2.3.3 特殊阶码含义",
+        "chapter":  "2",
+        "duration_s":  594,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=23"
+    },
+    {
+        "page":  24,
+        "cid":  37742119894,
+        "part":  "2.3.4 大小端存储",
+        "chapter":  "2",
+        "duration_s":  1217,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=24"
+    },
+    {
+        "page":  25,
+        "cid":  37742120462,
+        "part":  "2.3.5 边界对齐",
+        "chapter":  "2",
+        "duration_s":  1191,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=25"
+    },
+    {
+        "page":  26,
+        "cid":  37909168773,
+        "part":  "3.1.1 存储器概述",
+        "chapter":  "3",
+        "duration_s":  1911,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=26"
+    },
+    {
+        "page":  27,
+        "cid":  37909170594,
+        "part":  "3.2.1 SRAM和DRAM",
+        "chapter":  "3",
+        "duration_s":  2503,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=27"
+    },
+    {
+        "page":  28,
+        "cid":  37909234706,
+        "part":  "3.2.2 SRAM和DRAM习题练习",
+        "chapter":  "3",
+        "duration_s":  686,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=28"
+    },
+    {
+        "page":  29,
+        "cid":  37909237671,
+        "part":  "3.2.3 非易失性存储器",
+        "chapter":  "3",
+        "duration_s":  311,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=29"
+    },
+    {
+        "page":  30,
+        "cid":  37909299650,
+        "part":  "3.2.4 多模块存储器",
+        "chapter":  "3",
+        "duration_s":  2557,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=30"
+    },
+    {
+        "page":  31,
+        "cid":  37909365154,
+        "part":  "3.2.5 多模块题目练习",
+        "chapter":  "3",
+        "duration_s":  759,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=31"
+    },
+    {
+        "page":  32,
+        "cid":  38064687157,
+        "part":  "3.3.1 主存容量的扩展",
+        "chapter":  "3",
+        "duration_s":  1711,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=32"
+    },
+    {
+        "page":  33,
+        "cid":  38064688538,
+        "part":  "3.3.2 主存储器与CPU的连接",
+        "chapter":  "3",
+        "duration_s":  1971,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=33"
+    },
+    {
+        "page":  34,
+        "cid":  38209126978,
+        "part":  "3.4 外部存储器（一轮先跳过）",
+        "chapter":  "3",
+        "duration_s":  89,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=34"
+    },
+    {
+        "page":  35,
+        "cid":  38209127321,
+        "part":  "3.5.1 程序访问的局部性原理",
+        "chapter":  "3",
+        "duration_s":  1575,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=35"
+    },
+    {
+        "page":  36,
+        "cid":  40579957431,
+        "part":  "3.5.2 内存分块地址特点",
+        "chapter":  "3",
+        "duration_s":  931,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=36"
+    },
+    {
+        "page":  37,
+        "cid":  38209127649,
+        "part":  "3.5.3 Cache命中率与平均访问时间",
+        "chapter":  "3",
+        "duration_s":  1208,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=37"
+    },
+    {
+        "page":  38,
+        "cid":  38209192691,
+        "part":  "3.5.4.0 预防针",
+        "chapter":  "3",
+        "duration_s":  38,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=38"
+    },
+    {
+        "page":  39,
+        "cid":  38209192702,
+        "part":  "3.5.4.1 直接映射及其原理",
+        "chapter":  "3",
+        "duration_s":  4342,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=39"
+    },
+    {
+        "page":  40,
+        "cid":  38209258405,
+        "part":  "3.5.5 全相联映射和组相联映射",
+        "chapter":  "3",
+        "duration_s":  1885,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=40"
+    },
+    {
+        "page":  41,
+        "cid":  38209260289,
+        "part":  "3.5.6 Cache映射方式习题练习",
+        "chapter":  "3",
+        "duration_s":  1421,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=41"
+    },
+    {
+        "page":  42,
+        "cid":  38209261002,
+        "part":  "3.5.7 Cache比较器的个数和位数",
+        "chapter":  "3",
+        "duration_s":  653,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=42"
+    },
+    {
+        "page":  43,
+        "cid":  41261465643,
+        "part":  "3.5.8 Cache的脏位和替换算法位",
+        "chapter":  "3",
+        "duration_s":  2137,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=43"
+    },
+    {
+        "page":  44,
+        "cid":  38209324517,
+        "part":  "3.5.9 Cache的每行容量与总容量",
+        "chapter":  "3",
+        "duration_s":  1199,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=44"
+    },
+    {
+        "page":  45,
+        "cid":  38209325475,
+        "part":  "3.5.10 Cache的应用",
+        "chapter":  "3",
+        "duration_s":  209,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=45"
+    },
+    {
+        "page":  46,
+        "cid":  38209325702,
+        "part":  "3.5.11 Cache汇总",
+        "chapter":  "3",
+        "duration_s":  394,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=46"
+    },
+    {
+        "page":  47,
+        "cid":  37883808040,
+        "part":  "4.1 指令系统",
+        "chapter":  "4",
+        "duration_s":  1780,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=47"
+    },
+    {
+        "page":  48,
+        "cid":  37883871661,
+        "part":  "4.2 寻址方式",
+        "chapter":  "4",
+        "duration_s":  4311,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=48"
+    },
+    {
+        "page":  49,
+        "cid":  37883937512,
+        "part":  "4.4 CISC和RISC的基本概念",
+        "chapter":  "4",
+        "duration_s":  391,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=49"
+    },
+    {
+        "page":  50,
+        "cid":  37883939304,
+        "part":  "5.1 CPU的功能和基本结构",
+        "chapter":  "5",
+        "duration_s":  1987,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=50"
+    },
+    {
+        "page":  51,
+        "cid":  37884003380,
+        "part":  "5.2 指令执行过程",
+        "chapter":  "5",
+        "duration_s":  1228,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=51"
+    },
+    {
+        "page":  52,
+        "cid":  37884004040,
+        "part":  "5.3 数据通路1",
+        "chapter":  "5",
+        "duration_s":  1754,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=52"
+    },
+    {
+        "page":  53,
+        "cid":  37884068052,
+        "part":  "5.3 数据通路2",
+        "chapter":  "5",
+        "duration_s":  3195,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=53"
+    },
+    {
+        "page":  54,
+        "cid":  38064751378,
+        "part":  "5.6 流水线1",
+        "chapter":  "5",
+        "duration_s":  1197,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=54"
+    },
+    {
+        "page":  55,
+        "cid":  38064753062,
+        "part":  "5.6 流水线2",
+        "chapter":  "5",
+        "duration_s":  5349,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=55"
+    },
+    {
+        "page":  56,
+        "cid":  38064882616,
+        "part":  "6.1 总线",
+        "chapter":  "6",
+        "duration_s":  3504,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=56"
+    },
+    {
+        "page":  57,
+        "cid":  38064947958,
+        "part":  "7.3 IO方式1",
+        "chapter":  "7",
+        "duration_s":  6402,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=57"
+    },
+    {
+        "page":  58,
+        "cid":  38065016112,
+        "part":  "7.3 IO方式2",
+        "chapter":  "7",
+        "duration_s":  3813,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=58"
+    },
+    {
+        "page":  1,
+        "cid":  41166308867,
+        "part":  "27考研408学习交流群",
+        "chapter":  "27",
+        "duration_s":  20,
+        "url":  "https://www.bilibili.com/video/BV1bsoaB1EN7?p=1"
+    }
+]
