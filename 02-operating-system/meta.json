@@ -1,10 +1,14 @@
 {
-    "key":  "os",
+    "key":  "02-operating-system",
     "bvid":  "BV1aNVP6YEp8",
     "title":  "2027考研408WD课本操作系统带学(先收藏，持续更新中)",
     "part_count":  31,
     "total_duration_s":  67058,
     "chapters":  [
+                     {
+                         "chapter":  "27",
+                         "parts":  1
+                     },
                      {
                          "chapter":  "1",
                          "parts":  5
@@ -24,13 +28,17 @@
                      {
                          "chapter":  "5",
                          "parts":  1
-                     },
-                     {
-                         "chapter":  "27",
-                         "parts":  1
                      }
                  ],
     "items":  [
+                  {
+                      "page":  1,
+                      "cid":  41166307423,
+                      "part":  "27考研408学习交流群",
+                      "chapter":  "27",
+                      "duration_s":  19,
+                      "url":  "https://www.bilibili.com/video/BV1aNVP6YEp8?p=1"
+                  },
                   {
                       "page":  2,
                       "cid":  38622857440,
@@ -270,14 +278,6 @@
                       "chapter":  "5",
                       "duration_s":  1898,
                       "url":  "https://www.bilibili.com/video/BV1aNVP6YEp8?p=31"
-                  },
-                  {
-                      "page":  1,
-                      "cid":  41166307423,
-                      "part":  "27考研408学习交流群",
-                      "chapter":  "27",
-                      "duration_s":  19,
-                      "url":  "https://www.bilibili.com/video/BV1aNVP6YEp8?p=1"
                   }
               ]
 }
