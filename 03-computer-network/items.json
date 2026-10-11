@@ -1,0 +1,186 @@
+[
+    {
+        "page":  2,
+        "cid":  39151077741,
+        "part":  "1.1.1 电路交换报文交换分组交换",
+        "chapter":  "1",
+        "duration_s":  1484,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=2"
+    },
+    {
+        "page":  3,
+        "cid":  39151141991,
+        "part":  "1.1.2 计算机网络性能指标",
+        "chapter":  "1",
+        "duration_s":  1707,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=3"
+    },
+    {
+        "page":  4,
+        "cid":  39151143795,
+        "part":  "1.1.3 题目练习",
+        "chapter":  "1",
+        "duration_s":  3164,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=4"
+    },
+    {
+        "page":  5,
+        "cid":  39151206680,
+        "part":  "1.2 计算机网络参考模型",
+        "chapter":  "1",
+        "duration_s":  1446,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=5"
+    },
+    {
+        "page":  6,
+        "cid":  39151208094,
+        "part":  "2.1 通信基础",
+        "chapter":  "2",
+        "duration_s":  1198,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=6"
+    },
+    {
+        "page":  7,
+        "cid":  39151209531,
+        "part":  "2.1.2 编码与调制以及物理层其他小节",
+        "chapter":  "2",
+        "duration_s":  1920,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=7"
+    },
+    {
+        "page":  8,
+        "cid":  39151273064,
+        "part":  "3.1 数据链路层",
+        "chapter":  "3",
+        "duration_s":  456,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=8"
+    },
+    {
+        "page":  9,
+        "cid":  39151274322,
+        "part":  "3.4.1 滑动窗口与ARQ协议",
+        "chapter":  "3",
+        "duration_s":  2456,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=9"
+    },
+    {
+        "page":  10,
+        "cid":  39175913842,
+        "part":  "3.4.2 信道利用率",
+        "chapter":  "3",
+        "duration_s":  2454,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=10"
+    },
+    {
+        "page":  11,
+        "cid":  39151339859,
+        "part":  "3.5 介质访问控制",
+        "chapter":  "3",
+        "duration_s":  1333,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=11"
+    },
+    {
+        "page":  12,
+        "cid":  39151341466,
+        "part":  "3.6局域网1",
+        "chapter":  "3",
+        "duration_s":  618,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=12"
+    },
+    {
+        "page":  13,
+        "cid":  39151341371,
+        "part":  "3.6局域网2",
+        "chapter":  "3",
+        "duration_s":  2905,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=13"
+    },
+    {
+        "page":  14,
+        "cid":  39151405298,
+        "part":  "3.6局域网3",
+        "chapter":  "3",
+        "duration_s":  2635,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=14"
+    },
+    {
+        "page":  15,
+        "cid":  39151470843,
+        "part":  "3.8链路层设备",
+        "chapter":  "3",
+        "duration_s":  1261,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=15"
+    },
+    {
+        "page":  16,
+        "cid":  39151472291,
+        "part":  "4.1网络层的功能",
+        "chapter":  "4",
+        "duration_s":  760,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=16"
+    },
+    {
+        "page":  17,
+        "cid":  39151534550,
+        "part":  "4.2 IP地址1",
+        "chapter":  "4",
+        "duration_s":  1435,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=17"
+    },
+    {
+        "page":  18,
+        "cid":  39151536550,
+        "part":  "4.2 IP地址2",
+        "chapter":  "4",
+        "duration_s":  3949,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=18"
+    },
+    {
+        "page":  19,
+        "cid":  39151600182,
+        "part":  "4.2 IP地址3",
+        "chapter":  "4",
+        "duration_s":  3006,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=19"
+    },
+    {
+        "page":  20,
+        "cid":  39175914279,
+        "part":  "4.2 IP地址4",
+        "chapter":  "4",
+        "duration_s":  3920,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=20"
+    },
+    {
+        "page":  21,
+        "cid":  39151927456,
+        "part":  "5第五章：传输层1(去年版本）",
+        "chapter":  "5",
+        "duration_s":  5186,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=21"
+    },
+    {
+        "page":  22,
+        "cid":  39151993247,
+        "part":  "5第五章：传输层2(去年版本）",
+        "chapter":  "5",
+        "duration_s":  3751,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=22"
+    },
+    {
+        "page":  23,
+        "cid":  39151996009,
+        "part":  "6第六章：应用层(去年版本）",
+        "chapter":  "6",
+        "duration_s":  2696,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=23"
+    },
+    {
+        "page":  1,
+        "cid":  41166307587,
+        "part":  "27考研408学习交流群",
+        "chapter":  "27",
+        "duration_s":  19,
+        "url":  "https://www.bilibili.com/video/BV12mjT63EsS?p=1"
+    }
+]
