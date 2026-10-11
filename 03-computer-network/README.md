@@ -1,36 +1,43 @@
-# 408 · 计算机网络
+# 408 - 计算机网络
 
-> 来源：B 站 UP 主 **复旦发哥带学408**（mid 377718669）
-> 分册 BV：[BV12mjT63EsS](https://www.bilibili.com/video/BV12mjT63EsS)　·　快照：**2026-10-11**
-> 本册 **23** P，总时长约 **829** 分钟。结构化数据：[meta.json](meta.json)
+> Source: Bilibili UP **复旦发哥带学408**
+> Volume BV: [BV12mjT63EsS](https://www.bilibili.com/video/BV12mjT63EsS) - Snapshot: **2026-10-11**
+> This volume has **23** parts, about **829** minutes. Data: [`meta.json`](meta.json)
 
-## 数据来源 · 计算方法 · 口径限制
+## Data source / method / limits
 
-**数据来源**：B 站 \x/web-interface/view?bvid=BV12mjT63EsS\ 的 \pages[]\（含全部分P与时长）。
+**Data source**: Bilibili `x/web-interface/view?bvid=BV12mjT63EsS` -> `pages[]`
+(contains every part and its duration).
 
-**计算方法**：分P标题照录；\chapter\ 取标题开头的数字前缀（如 \2.1.3\ → \2\）；章节时长为该章各分P时长之和。表格中加粗行是章节小计。
+**Method**: part titles verbatim; `chapter` is the leading numeric prefix of the title
+(`2.1.3` -> `2`); a chapter total is the sum of its parts' durations. Bold rows in the
+table are chapter subtotals.
 
-**口径限制**
-- 本册官方标注 **"先收藏，持续更新中"**，**尚未完结**。本文件是 **2026-10-11** 的快照，之后会新增分P。
-- 全部四个分册的 **p1 都是"27考研408学习交流群"公告**，不是课程内容，但它没有章节号，会被归入 \other\ 组。
-- 本仓库**只做目录索引**，不含视频、字幕或讲义；内容版权归原作者所有。
+**Limits**
+- This volume is officially marked as **still being updated**, so this file is a
+  **2026-10-11** snapshot and later parts are not included.
+- In every one of the four volumes, **p1 is a study-group announcement**, not course
+  content. It has no chapter number, so it is grouped under `other`.
+- Metadata index only: no videos, no subtitles, no handouts.
 
-## 章节分布
+## Chapters
 
 | chapter | parts |
 |---|---:|
+| 27 | 1 |
 | 1 | 4 |
 | 2 | 2 |
 | 3 | 8 |
 | 4 | 5 |
 | 5 | 2 |
 | 6 | 1 |
-| 27 | 1 |
 
-## 全部 23 P
+## All 23 parts
 
 | P | part | length | chapter total |
 |---:|---|---:|---:|
+| **27** | | | 0:19 |
+| 1 | [27考研408学习交流群](https://www.bilibili.com/video/BV12mjT63EsS?p=1) | 0:19 | |
 | **1** | | | 130:01 |
 | 2 | [1.1.1 电路交换报文交换分组交换](https://www.bilibili.com/video/BV12mjT63EsS?p=2) | 24:44 | |
 | 3 | [1.1.2 计算机网络性能指标](https://www.bilibili.com/video/BV12mjT63EsS?p=3) | 28:27 | |
@@ -59,9 +66,3 @@
 | 22 | [5第五章：传输层2(去年版本）](https://www.bilibili.com/video/BV12mjT63EsS?p=22) | 62:31 | |
 | **6** | | | 44:56 |
 | 23 | [6第六章：应用层(去年版本）](https://www.bilibili.com/video/BV12mjT63EsS?p=23) | 44:56 | |
-| **27** | | | 0:19 |
-| 1 | [27考研408学习交流群](https://www.bilibili.com/video/BV12mjT63EsS?p=1) | 0:19 | |
-
----
-
-*2026-10-11 快照。*
