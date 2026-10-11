@@ -1,0 +1,117 @@
+[
+    {
+        "folder":  "01-computer-organization",
+        "title":  "计算机组成原理",
+        "bvid":  "BV1bsoaB1EN7",
+        "parts":  58,
+        "total_duration_s":  95363,
+        "chapters":  [
+                         {
+                             "chapter":  "0",
+                             "parts":  1
+                         },
+                         {
+                             "chapter":  "1",
+                             "parts":  2
+                         },
+                         {
+                             "chapter":  "2",
+                             "parts":  21
+                         },
+                         {
+                             "chapter":  "3",
+                             "parts":  21
+                         },
+                         {
+                             "chapter":  "4",
+                             "parts":  3
+                         },
+                         {
+                             "chapter":  "5",
+                             "parts":  6
+                         },
+                         {
+                             "chapter":  "6",
+                             "parts":  1
+                         },
+                         {
+                             "chapter":  "7",
+                             "parts":  2
+                         },
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         }
+                     ]
+    },
+    {
+        "folder":  "02-operating-system",
+        "title":  "操作系统",
+        "bvid":  "BV1aNVP6YEp8",
+        "parts":  31,
+        "total_duration_s":  67058,
+        "chapters":  [
+                         {
+                             "chapter":  "1",
+                             "parts":  5
+                         },
+                         {
+                             "chapter":  "2",
+                             "parts":  7
+                         },
+                         {
+                             "chapter":  "3",
+                             "parts":  13
+                         },
+                         {
+                             "chapter":  "4",
+                             "parts":  4
+                         },
+                         {
+                             "chapter":  "5",
+                             "parts":  1
+                         },
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         }
+                     ]
+    },
+    {
+        "folder":  "03-computer-network",
+        "title":  "计算机网络",
+        "bvid":  "BV12mjT63EsS",
+        "parts":  23,
+        "total_duration_s":  49759,
+        "chapters":  [
+                         {
+                             "chapter":  "1",
+                             "parts":  4
+                         },
+                         {
+                             "chapter":  "2",
+                             "parts":  2
+                         },
+                         {
+                             "chapter":  "3",
+                             "parts":  8
+                         },
+                         {
+                             "chapter":  "4",
+                             "parts":  5
+                         },
+                         {
+                             "chapter":  "5",
+                             "parts":  2
+                         },
+                         {
+                             "chapter":  "6",
+                             "parts":  1
+                         },
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         }
+                     ]
+    }
+]
