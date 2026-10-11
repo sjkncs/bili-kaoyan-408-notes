@@ -1,37 +1,39 @@
 # 考研 408 · 课本带学目录（B 站）
 
-> 来源：B 站 UP 主 **复旦发哥带学408**（mid `377718669`）合集「2027考研408WD课本带学」（season_id `7981982`）。
-> 快照：**2026-10-11**。本仓库收录**三个仍在更新的分册**，共 **112** P。
->
-> **数据结构分册（87 P，已完结）在另一个仓库**：[`bili-kaoyan-408-ds`](https://github.com/sjkncs/bili-kaoyan-408-ds)
+> Source: Bilibili UP **复旦发哥带学408** - Snapshot: **2026-10-11**
+> This repo holds **three volumes that are still being updated**, 112 parts in total.
+> **数据结构分册（87 P，已完结） is in another repo**: [`bili-kaoyan-408-ds`](https://github.com/sjkncs/bili-kaoyan-408-ds)
 
-## 分部
+## Volumes
 
-| 目录 | 分册 | 分P | 状态 |
+| directory | volume | parts | status |
 |---|---|---:|---|
-| [`01-computer-organization/`](01-computer-organization/) | 计算机组成原理 | 58 | 持续更新中 |
-| [`02-operating-system/`](02-operating-system/) | 操作系统 | 31 | 持续更新中 |
-| [`03-computer-network/`](03-computer-network/) | 计算机网络 | 23 | 持续更新中 |
-| — | [数据结构（独立仓库）](https://github.com/sjkncs/bili-kaoyan-408-ds) | 87 | 暂时完结 |
-| | | **本仓合计 112** | |
+| [`01-computer-organization/`](01-computer-organization/) | 计算机组成原理 | 58 | updating |
+| [`02-operating-system/`](02-operating-system/) | 操作系统 | 31 | updating |
+| [`03-computer-network/`](03-computer-network/) | 计算机网络 | 23 | updating |
+| - | data structure (separate repo) | 87 | finished |
+| | | **112 here** | |
 
-## 数据来源 · 计算方法 · 口径限制
+## Data source / method / limits
 
-**数据来源**：B 站公开接口 `x/web-interface/view?bvid=...` 的 `pages[]` 字段，以及 `seasons_archives_list` 取得的分册列表。
+**Data source**: `x/web-interface/view?bvid=...` -> `pages[]`, plus
+`seasons_archives_list` for the volume list.
 
-**计算方法**：分P标题照录；章节号取标题开头的数字前缀；章节时长按该章分P时长求和。
+**Method**: part titles verbatim; chapter number is the leading numeric prefix; chapter
+duration is the sum of its parts.
 
-**口径限制**
-- 本仓三个分册**都未完结**（官方标注"先收藏，持续更新中"）。快照日期见各目录 README，之后会有新增分P。
-- **每个分册的 p1 都是"27考研408学习交流群"公告**，非课程内容。因为它没有章节号，会被统计进 `other` 组。
-- **只做目录索引**，不含视频、字幕或讲义。
-- 章节编号沿用 UP 主原始编号，**未与王道/严蔚敏等教材章节对齐**。
+**Limits**
+- All three volumes are **unfinished** (officially "bookmark it, still updating"), so the
+  snapshot date in each directory README matters -- later parts are not included.
+- **p1 of every volume is a study-group announcement**, not course content, and is counted
+  under `other` because it has no chapter number.
+- Metadata index only: no videos, no subtitles, no handouts.
+- Chapter numbering follows the original author and is **not** realigned to any textbook.
 
-## 仓库内其它文件
+## Other files
 
-- [`snapshot.json`](snapshot.json)：四个分册的汇总统计（本仓三个 + 数据结构的状态）。
-- 各目录下：`README.md`（含完整目录表）、`meta.json`（结构化数据）。
+- [snapshot.json](snapshot.json): per-volume summary.
+- Per directory: `README.md` (full table), `meta.json`, `items.json`.
 
 ---
-
-*2026-10-11 快照。仅为目录索引，内容版权归原作者所有。*
+*2026-10-11 snapshot. Index only; all content belongs to the original author.*
