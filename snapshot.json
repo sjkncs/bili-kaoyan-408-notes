@@ -4,8 +4,12 @@
         "title":  "计算机组成原理",
         "bvid":  "BV1bsoaB1EN7",
         "parts":  58,
-        "total_duration_s":  95363,
+        "total_duration_s":  95340,
         "chapters":  [
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         },
                          {
                              "chapter":  "0",
                              "parts":  1
@@ -37,10 +41,6 @@
                          {
                              "chapter":  "7",
                              "parts":  2
-                         },
-                         {
-                             "chapter":  "27",
-                             "parts":  1
                          }
                      ]
     },
@@ -49,8 +49,12 @@
         "title":  "操作系统",
         "bvid":  "BV1aNVP6YEp8",
         "parts":  31,
-        "total_duration_s":  67058,
+        "total_duration_s":  67080,
         "chapters":  [
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         },
                          {
                              "chapter":  "1",
                              "parts":  5
@@ -70,10 +74,6 @@
                          {
                              "chapter":  "5",
                              "parts":  1
-                         },
-                         {
-                             "chapter":  "27",
-                             "parts":  1
                          }
                      ]
     },
@@ -82,8 +82,12 @@
         "title":  "计算机网络",
         "bvid":  "BV12mjT63EsS",
         "parts":  23,
-        "total_duration_s":  49759,
+        "total_duration_s":  49740,
         "chapters":  [
+                         {
+                             "chapter":  "27",
+                             "parts":  1
+                         },
                          {
                              "chapter":  "1",
                              "parts":  4
@@ -106,10 +110,6 @@
                          },
                          {
                              "chapter":  "6",
-                             "parts":  1
-                         },
-                         {
-                             "chapter":  "27",
                              "parts":  1
                          }
                      ]
